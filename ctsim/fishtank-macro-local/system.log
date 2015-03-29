@@ -1,0 +1,8 @@
+Jul 11, 2013 2:56:35 PM org.teachableagents.caile.services.SystemLoggerService startUp
+INFO: SystemLoggerService started
+Jul 11, 2013 2:57:23 PM org.teachableagents.caile.services.SystemLoggerService shutDown
+INFO: SystemLoggerService stopped
+Jul 11, 2013 3:59:31 PM org.teachableagents.caile.services.SystemLoggerService startUp
+INFO: SystemLoggerService started
+Jul 11, 2013 4:05:32 PM org.teachableagents.caile.services.SystemLoggerService shutDown
+INFO: SystemLoggerService stopped

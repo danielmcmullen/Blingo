@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ee857a69-00e7-4631-818f-9c874630694b</identifier>
+  <publish-time>1829307000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppStartedEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a27147f8-41c1-4f7b-a35d-45ebcd252c83</identifier>
+  <publish-time>42609998000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4c599bac-dc86-4a66-829c-b383f8f4ad4f</identifier>
+  <publish-time>42610100000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>508dc134-cd70-448d-89e3-b863510f75b6</identifier>
+  <publish-time>42667717000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b4b3d69f-5962-44b9-9a48-dbd59d70e15d</identifier>
+  <publish-time>42670810000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6a14d76a-bcf3-44ee-8fa3-506514a61333</identifier>
+  <publish-time>42670948000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8d35d14c-6506-450a-b32e-cc7c99ea3d8e</identifier>
+  <publish-time>49771443000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$SetupEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>12627a8e-8487-4cb8-abdd-845e2e681580</identifier>
+  <publish-time>49774952000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>11f1976e-5fb0-4eef-9940-c4c82fe324e1</identifier>
+  <publish-time>50192012000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SetupDoneEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>1b544372-83a4-4dc0-a633-bc1cdbd0ac87</identifier>
+  <publish-time>52101669000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>97660ce4-eb2a-405b-9332-84ecb1c2f999</identifier>
+  <publish-time>52105849000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2fa465a2-ebc3-4c55-92bf-a2bde0f0ca94</identifier>
+  <publish-time>52105950000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d64cf17d-87cc-4b8b-9474-5ce683d3302b</identifier>
+  <publish-time>52136241000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f660523c-803d-4d17-ac0b-db62f683f02f</identifier>
+  <publish-time>53299033000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b9f9436f-2aa6-47a3-b0d7-4cfc6ec11058</identifier>
+  <publish-time>53303685000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>16201dd2-89c3-4870-b3f3-677d07b7e7e8</identifier>
+  <publish-time>53303759000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e245065b-2eb9-45e0-97c3-bb2f01e64b16</identifier>
+  <publish-time>53732048000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>89d68cf6-0991-4b54-b49d-71fd4a180749</identifier>
+  <publish-time>54531504000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f3386514-e541-4295-946d-b94a143ff21d</identifier>
+  <publish-time>54537611000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>47a2fa51-1d4b-4f17-8948-4153592c8afa</identifier>
+  <publish-time>54537711000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>77e14f73-26b0-489f-aa95-6d702b15bd46</identifier>
+  <publish-time>54547352000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9521433c-c72d-4b1e-ba68-4751fa540ec6</identifier>
+  <publish-time>55251497000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>38422560-91dd-4ee8-8b9a-b1a145f978f1</identifier>
+  <publish-time>55258796000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8a54ecc0-5b98-4dcc-ac1e-b4c49fa3815a</identifier>
+  <publish-time>55258896000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>11eed2a9-fb0f-4c2f-b3fa-07cf35518c57</identifier>
+  <publish-time>55270188000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>daa36cfa-ad1d-490a-84fc-8885b3d3edd1</identifier>
+  <publish-time>57036685000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>08eaf0d5-76f5-403f-8df2-adeb1d901053</identifier>
+  <publish-time>57043746000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>16de0b4a-8033-49bc-84d0-51870545edd8</identifier>
+  <publish-time>57043854000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4975ba2e-e859-4238-bfff-899653ab428e</identifier>
+  <publish-time>57055177000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fc97ed26-5bbf-486a-b86e-067c936c9e58</identifier>
+  <publish-time>57851284000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e643031f-dfe7-4f0b-ac98-7e033b9ecf4f</identifier>
+  <publish-time>57859152000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b5cea2b9-e49f-4ed1-866f-4e2601e88eda</identifier>
+  <publish-time>57859258000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8a775960-2dec-440f-b436-d4cb9fd88403</identifier>
+  <publish-time>57869220000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>80309eba-6b26-40de-831a-29fde3b89293</identifier>
+  <publish-time>58635025000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0d0a0215-5614-486b-86c0-82cfb293a246</identifier>
+  <publish-time>58641892000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2baa2026-ec1a-48b9-bf97-0ee6f1b9dbbf</identifier>
+  <publish-time>58641972000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0392fbc9-90e6-4abb-84f4-07c90d8c09e8</identifier>
+  <publish-time>58652018000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>81328a62-1123-4799-9329-4db42e76e2e6</identifier>
+  <publish-time>70102539000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnvisionmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4c42af01-2585-4608-b470-36fa422db116</identifier>
+  <publish-time>70102629000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>51e9cce8-a231-4b0b-a4e6-d92a41f5c782</identifier>
+  <publish-time>70111563000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f51425da-a8d8-47b8-89b1-ab5b4a9d06f5</identifier>
+  <publish-time>70111627000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>24fc1faf-b6b8-4eb9-b771-7a41c848bbba</identifier>
+  <publish-time>70111853000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StopEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>12c50b88-1f36-4dc4-ad87-6628a0548c69</identifier>
+  <publish-time>70124000000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a7a47c66-37aa-4ff6-8599-40281e779ba2</identifier>
+  <publish-time>70124069000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>28a1515b-d817-432a-9e3b-3a94a0e483ea</identifier>
+  <publish-time>70149375000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>93c4bbc2-0c70-46d7-a1f1-aeca25f220cc</identifier>
+  <publish-time>70149450000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8b8e6a54-a38e-4685-b4cb-0e29d09afa56</identifier>
+  <publish-time>71230625000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>31f87ac1-2379-46d9-81cb-995089ace671</identifier>
+  <publish-time>71230742000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnvisionmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e99023f0-164b-4953-b2bb-1fbb5be9c550</identifier>
+  <publish-time>71259357000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3c56c261-e474-427d-a61b-4c3ec9480ab7</identifier>
+  <publish-time>71266387000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>72f9b666-258e-4647-b689-d2e179451f02</identifier>
+  <publish-time>71266463000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f4149632-8147-4d11-b8c1-b60c606f4d63</identifier>
+  <publish-time>72110716000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8b9e560f-46e5-4266-b8dd-a42bb535b602</identifier>
+  <publish-time>72110790000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>573843f4-9f45-487b-b025-99e2a7d80802</identifier>
+  <publish-time>75650799000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitRequestedEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>30ca410d-84bc-4f29-8c35-7f6ce34ca2e3</identifier>
+  <publish-time>75650948000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5c09b8d8-c8e5-4bf7-a9c4-2261ff0bd1a9</identifier>
+  <publish-time>75658013000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>ConstructionActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4d5622a9-0443-4709-8b39-fb75db21f451</identifier>
+  <publish-time>75658204000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EnactmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ffc52705-4ee7-414a-9486-ab30184476b7</identifier>
+  <publish-time>75658259000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EnvisionmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7924cc5c-74ec-4b7c-ad2e-c9ed1e5c88a0</identifier>
+  <publish-time>75658422000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>df1a0db1-2d49-4716-b8c0-043b12595bc5</identifier>
+  <publish-time>75671762000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppWillExitEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>192c723a-adbc-43f8-8edd-c87fb5089329</identifier>
+  <publish-time>75678608000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>ConstructionActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7c5b4331-31de-487b-a4d5-2fff156c6882</identifier>
+  <publish-time>75678677000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EnactmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9aad6625-fb7f-4b52-b76f-327eb3a940be</identifier>
+  <publish-time>75678727000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EnvisionmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>13affaf4-ad9b-4fd5-88bb-d34d06c4bb9e</identifier>
+  <publish-time>75692178000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7088b6f7-5700-4b90-9694-881a96ea9cdd</identifier>
+  <publish-time>75700115000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>bdf1ba08-6578-45b4-8426-5161c6e8445f</identifier>
+  <publish-time>5052538000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppStartedEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>975a3b11-8975-40b3-8066-1e4f00decaa1</identifier>
+  <publish-time>26351507000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9cf251d8-88c2-424b-a66a-2c7046bbd0ea</identifier>
+  <publish-time>26351611000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>da3761b4-8006-453d-8377-1cf95feb0213</identifier>
+  <publish-time>26446223000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2be1dd75-58fe-4c57-bb4b-4cc8a23e872d</identifier>
+  <publish-time>26455335000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ac7cc93a-926f-434a-9210-7343b2407741</identifier>
+  <publish-time>26455442000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e7193b79-2fed-4c2d-bc78-24cc30b230bd</identifier>
+  <publish-time>29352936000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$SetupEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>533ab3d1-42f0-4176-b3c2-e05a8752b66e</identifier>
+  <publish-time>29353033000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>101ffecb-e233-49cb-b010-a1adcabd7b0a</identifier>
+  <publish-time>30255536000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SetupDoneEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6c362047-785d-4a93-8b59-185595de14b6</identifier>
+  <publish-time>32405529000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>334dba19-19d8-4d2b-90eb-f35584b5a722</identifier>
+  <publish-time>32405682000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fe44b52f-1742-4217-9851-b3b65a28bd88</identifier>
+  <publish-time>32405764000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>aaf3e2a8-7ae0-42dd-96bb-d8b00dcb9822</identifier>
+  <publish-time>32454893000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6322edc5-0245-446f-bcaa-7ccea4ec88ab</identifier>
+  <publish-time>33390663000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fa279e74-0e8d-4567-9f79-58cca21e8d68</identifier>
+  <publish-time>33390775000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>85821ce5-d734-4e59-9de8-f6a17e904087</identifier>
+  <publish-time>33390869000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>51f772d4-f6f3-4ac3-be54-96908e911c30</identifier>
+  <publish-time>33408271000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b7a113b3-a129-4fab-b998-61038de580af</identifier>
+  <publish-time>34096373000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3e962577-63b3-4a3b-aa8a-eca26658afb9</identifier>
+  <publish-time>34096452000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>677f6f5b-6f8e-44ad-be9f-aa4a686b4893</identifier>
+  <publish-time>34096526000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>97b3515f-6514-420b-8345-4696f55a1d7e</identifier>
+  <publish-time>34109315000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7332bb87-f2ec-40e3-9211-e3f946a0b219</identifier>
+  <publish-time>34536274000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>68715909-4618-471f-b7ab-621b613c3455</identifier>
+  <publish-time>34536364000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7e716053-5cdb-4b51-aaad-3d6dde01a44a</identifier>
+  <publish-time>34536423000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b4ae600a-8a41-4554-b703-5ee4c346e633</identifier>
+  <publish-time>34547320000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>735aabc3-79e7-4b2d-aa26-a79c01689a12</identifier>
+  <publish-time>34827114000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>00dcf401-1598-41e4-8a93-1e9328b9bdec</identifier>
+  <publish-time>34827203000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>c2d78321-dd4b-4e2e-bc2f-7204908f088a</identifier>
+  <publish-time>34827274000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>cf116699-30af-4f5a-98d7-bad7c3b9b8a5</identifier>
+  <publish-time>34841571000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fe335221-6b6f-4be5-aa2f-02dc551d1111</identifier>
+  <publish-time>36054417000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunForeverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>06b9a7a9-1b92-4cff-9e88-22ba1a9cc5a7</identifier>
+  <publish-time>36054523000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8c3de834-5f62-4c11-9dc4-7c3f7922b872</identifier>
+  <publish-time>36054592000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>609ba748-3702-4196-be69-f4562347e2c9</identifier>
+  <publish-time>39335844000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StopEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0003a821-c883-4b71-9140-3e506b2e4db9</identifier>
+  <publish-time>39342372000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e8dadbf0-1401-4966-a8ab-e298750201bf</identifier>
+  <publish-time>43061927000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnvisionmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fda4ede2-6b0d-4c8d-adb0-f605b6ed6efe</identifier>
+  <publish-time>43062015000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ed84a806-c9ec-416f-9d02-93de3f34158d</identifier>
+  <publish-time>43062179000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a45e6e9e-ecba-4b33-ad7a-b610e14275b9</identifier>
+  <publish-time>43062247000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b10a3b76-71b9-4490-ba6c-9c839ee40363</identifier>
+  <publish-time>43078840000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>736ee693-4060-489f-91ea-9d903754303c</identifier>
+  <publish-time>43078914000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>1b5a29b1-b912-4e2f-a9de-44f835bbc50a</identifier>
+  <publish-time>43109799000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>39011ec7-65ed-45c8-8843-a722f782415c</identifier>
+  <publish-time>43109869000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5440811b-1cd7-4a64-890b-e91a96f04999</identifier>
+  <publish-time>45571269000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$SetupEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>01688e57-2d4b-484e-9889-f09f49d83e34</identifier>
+  <publish-time>45571397000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$SetupEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>19eeef4d-852a-4f04-8a1e-9af0c319d608</identifier>
+  <publish-time>45579222000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ce83da99-bf00-4cdc-9e8b-47d9288271df</identifier>
+  <publish-time>45602636000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>658c29b3-b1c3-43bf-99ff-e4076cba2d3d</identifier>
+  <publish-time>45901864000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SetupDoneEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2449dc2d-cc2d-4316-a918-b67e8c22f845</identifier>
+  <publish-time>46661558000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SetupDoneEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>c4a293d1-3513-4f14-866d-8b07ab618229</identifier>
+  <publish-time>47708037000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3ec8a716-e6dd-482e-abd1-4721f8ff351f</identifier>
+  <publish-time>47708123000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0b12c6fd-47af-48a4-aba2-93710ffca594</identifier>
+  <publish-time>47716451000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>66a074c6-2649-4860-8aca-02558d45216c</identifier>
+  <publish-time>47716530000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5639fca1-8599-495f-bd22-2d013aa4421d</identifier>
+  <publish-time>47723745000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>c833b6f2-8016-4314-988e-aa3e8ea0c1a8</identifier>
+  <publish-time>47748609000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>35319e90-ce6e-406d-b6c5-e2ec8b6f6dd8</identifier>
+  <publish-time>47748703000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d0c68d67-e7b5-4bd4-b825-4d850acfcdcf</identifier>
+  <publish-time>47755433000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e71421ef-145a-469b-96c1-3f0d437d6baa</identifier>
+  <publish-time>48219634000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>39aab1cd-50ce-43b0-8a44-3d5c7e02cf6c</identifier>
+  <publish-time>48219723000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>48163ff3-61d3-4739-88c2-3c50600785fa</identifier>
+  <publish-time>48227918000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>15dfb374-a439-4d6f-926c-b4b6b22833b6</identifier>
+  <publish-time>48227996000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>af998c52-152f-4094-9f0b-6ad6c3c181ef</identifier>
+  <publish-time>48235461000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7f82cdbb-a50f-4d5e-b62e-e9cc4771835b</identifier>
+  <publish-time>48260520000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>14b8773c-b2b6-42d3-8f50-c2079ec373be</identifier>
+  <publish-time>48260618000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>29610e7a-deab-4de1-bfc7-f04b8317a34d</identifier>
+  <publish-time>48267097000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5b95eb75-3df3-4474-9539-2f19de553b21</identifier>
+  <publish-time>48427892000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9fcece71-8cbc-4204-9cde-03e0972caf18</identifier>
+  <publish-time>48427982000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8e80b6b6-8456-4adc-91d2-e40f9215dd4e</identifier>
+  <publish-time>48428006000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>940d7cb6-8cfd-48ca-a9c9-cdede064d91b</identifier>
+  <publish-time>48428077000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6e5113b1-7e6b-4257-bf04-9331093d1f54</identifier>
+  <publish-time>48435569000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f759e07a-ed2b-4727-9746-b66126a23ded</identifier>
+  <publish-time>48460824000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b32db3df-eb00-4f88-94e0-d31df9e7c417</identifier>
+  <publish-time>48460913000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0f197afd-82b0-42e9-acc7-079921d491b5</identifier>
+  <publish-time>48467437000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>1451794a-f42b-4f82-a1b0-372fa5b28413</identifier>
+  <publish-time>48619835000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>47e8e29f-7dbd-4f76-b864-ac279f10bbdc</identifier>
+  <publish-time>48619933000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ccfd71f9-43c2-4ca7-aab6-06bd346ee948</identifier>
+  <publish-time>48619958000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6af50941-89ef-4b78-8aea-d9e10b819bd9</identifier>
+  <publish-time>48620020000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>06f02bb6-81a9-4745-8d0b-996cb5e030a2</identifier>
+  <publish-time>48628047000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e247e018-eac1-47de-8055-19fe40d78bb0</identifier>
+  <publish-time>48654234000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>dcd6fc10-02b2-496e-8215-5209918f9764</identifier>
+  <publish-time>48654331000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9b6c8815-665a-48e3-8e76-271a19244352</identifier>
+  <publish-time>48660893000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e8ba6659-2dba-4160-8241-905b6f06db5e</identifier>
+  <publish-time>48812023000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7b75dc0d-e4df-4957-9b59-c8a7100b6df9</identifier>
+  <publish-time>48812126000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5f555f9f-9daa-4678-9347-81112aaacb48</identifier>
+  <publish-time>48812151000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>c4797391-3006-4087-bf62-966cd90afb03</identifier>
+  <publish-time>48812223000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9c2dec27-d9ac-48dd-9d03-247707b8b394</identifier>
+  <publish-time>49366008000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>cca9c7d9-54e9-46da-acce-05053b55f0ea</identifier>
+  <publish-time>49385625000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>6a0b573a-6a7f-4f32-abaf-8da2cbd034db</identifier>
+  <publish-time>49385733000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e0dbce85-6e48-4939-b84d-199d6dcf2771</identifier>
+  <publish-time>49390904000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e4d5d3ad-4282-4e6a-96ba-8152bceff1be</identifier>
+  <publish-time>52021527000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunForeverEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3e7b3f04-526d-4d7c-8c1e-d466df57399f</identifier>
+  <publish-time>52021620000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunForeverEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5e147644-6cf5-4091-81b1-78923db4d735</identifier>
+  <publish-time>52029834000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>aefe07a7-644c-4c97-b7bd-c3faf15318a9</identifier>
+  <publish-time>52029922000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>86b9726a-8efc-46a9-b255-294fcacbd48c</identifier>
+  <publish-time>52055751000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5f32fa6d-b95b-47f5-b1ca-08f9422082dc</identifier>
+  <publish-time>52055851000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5267d8bd-c5f4-40db-832f-35dc597bcf9b</identifier>
+  <publish-time>54106506000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StopEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a786bbcd-4c72-4ff0-8420-475d7b47a397</identifier>
+  <publish-time>54106580000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StopEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>67a38337-e715-4f84-ae91-eb77239f201b</identifier>
+  <publish-time>54122655000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e0686f95-6bed-47b3-b740-aac98970747f</identifier>
+  <publish-time>54142354000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>envisionment-expert</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>00cad1fe-bef3-4446-be40-52d8273642b1</identifier>
+  <publish-time>234381978000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>c5666847-e116-4799-b3e6-7f6155e75ca9</identifier>
+  <publish-time>234382072000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnvisionmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>462945be-4b5a-4558-8dfa-31d364a10013</identifier>
+  <publish-time>308231943000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a650fbf0-45f1-4f4e-a692-1a35fa7a2fb3</identifier>
+  <publish-time>308232003000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fd68f7cd-aebf-453b-8a23-ee850a26bf93</identifier>
+  <publish-time>308260854000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9ba25b21-f3d1-4759-86b2-e74315733c35</identifier>
+  <publish-time>308271012000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>70ce920a-930a-4458-8c67-2e46acc518e9</identifier>
+  <publish-time>308271096000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SimulationStartedOverEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f5febb2f-3f1f-4701-8b20-54a99469a71a</identifier>
+  <publish-time>309580010000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$SetupEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f3f84709-0109-4049-9f40-bc81b02be209</identifier>
+  <publish-time>309580099000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>354deffe-41d8-479a-baad-15da3b2ddcde</identifier>
+  <publish-time>310410715000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$SetupDoneEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f4071376-4cca-4808-a779-4d11fca33128</identifier>
+  <publish-time>311576817000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a7ff690b-5177-4e5a-bdb7-fc25ea859837</identifier>
+  <publish-time>311576921000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>bd859219-d0f5-41a5-894b-2fb86000c397</identifier>
+  <publish-time>311577005000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>31e6ceba-6af1-48ca-b029-f22a63b8d0be</identifier>
+  <publish-time>311597256000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>046da43f-9093-4af1-93bc-594d0c4a51f9</identifier>
+  <publish-time>313428299000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ee4947fe-07d8-41ee-a328-8af6f0ffec25</identifier>
+  <publish-time>313428390000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>027d0840-3852-4a02-a500-670409752436</identifier>
+  <publish-time>313428464000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b245aa38-ad94-41e3-87ef-cd812f9c103c</identifier>
+  <publish-time>313435552000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>505e6c95-931d-4e31-8a99-8fb08be521e4</identifier>
+  <publish-time>314044364000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>be247634-5a5f-4518-ad62-4e6b4aa4d660</identifier>
+  <publish-time>314044453000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>41926516-57a7-4cd2-b221-989b6436d13c</identifier>
+  <publish-time>314044519000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4d6f570d-7001-4770-8631-5749ffa09529</identifier>
+  <publish-time>314051079000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fef218be-83ee-414d-a675-d88826f0ffb2</identifier>
+  <publish-time>314626474000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0fba28a7-176a-4d62-a64a-7ffa1e4621b7</identifier>
+  <publish-time>314626552000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>8894af18-a362-425a-bf9c-e30dd9939b45</identifier>
+  <publish-time>314626620000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b27968c1-66d7-4f53-864d-b737a2ce318b</identifier>
+  <publish-time>314633260000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0970bded-9648-46ab-9c31-fd73cce48d13</identifier>
+  <publish-time>315074263000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2e6fcbf3-d815-409c-b7e9-dc41431c7490</identifier>
+  <publish-time>315074348000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>80097044-8726-492b-b76c-9123373f11f4</identifier>
+  <publish-time>315074405000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b7011918-6701-4ecc-a15f-6e32355827ee</identifier>
+  <publish-time>315080879000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>706307b0-65ca-4454-960e-74f0cbca5978</identifier>
+  <publish-time>315546328000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>52919fff-aa6c-4ad8-a6a2-af4366de412d</identifier>
+  <publish-time>315546412000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>708cbb6f-b3b8-4fa1-8cd6-b8b8f87f8b35</identifier>
+  <publish-time>315546482000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>13dfda87-cd8b-4d86-9b37-2d59a4b2f729</identifier>
+  <publish-time>315553581000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9c0dcd83-c293-47ac-a88c-13233c5f5661</identifier>
+  <publish-time>316736373000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d45ef382-f6a8-4b41-9a0f-5ccc0933629c</identifier>
+  <publish-time>316736457000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>4630ee3b-f39c-4a67-b13d-83e3566b344e</identifier>
+  <publish-time>316736528000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b6dfc437-747d-4c84-b65f-73b79e1858bb</identifier>
+  <publish-time>316744361000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>f2fff285-ad52-451c-a33a-c82bf401f9de</identifier>
+  <publish-time>317542272000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>321da969-6219-4bac-923b-e91b70715543</identifier>
+  <publish-time>317542370000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>09015623-8ac5-4289-bf2d-dbfeb73080be</identifier>
+  <publish-time>317542456000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3d42d63b-e99b-40f6-b9bf-25fdfd60ecce</identifier>
+  <publish-time>317551042000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>cb8acb7c-1f25-474e-b8e9-a664140d1d30</identifier>
+  <publish-time>318220744000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>e2ce8cea-ff09-4df6-bfff-476fce6dc168</identifier>
+  <publish-time>318220849000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>51ddb1d1-a6c6-409c-b941-333fe428f569</identifier>
+  <publish-time>318220952000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>b8a11c0b-ffc5-44cd-92ed-1aa8c913a096</identifier>
+  <publish-time>318237697000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>cabb2025-6d05-4d8f-9427-83bf99593b2c</identifier>
+  <publish-time>319092052000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>50fc951e-db4e-4299-8df5-fe638fd63899</identifier>
+  <publish-time>319092151000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>15a342c8-28c1-4830-baaa-f22482fe8a70</identifier>
+  <publish-time>319092209000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>0fff2fcd-d45c-435e-8bc0-915aa8ad37d6</identifier>
+  <publish-time>319099349000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>148f93fc-4f2a-4062-8896-6d387de4ba76</identifier>
+  <publish-time>319770261000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5c499238-19bc-416c-b643-809156ddaf90</identifier>
+  <publish-time>319770346000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d301969b-6eda-4573-9f28-cbc84fd1b197</identifier>
+  <publish-time>319770413000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>44c7a664-4767-449f-a811-6f3f4b9740cd</identifier>
+  <publish-time>319777598000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>af8eeefa-37d3-4b4b-9339-8d6dce048a3d</identifier>
+  <publish-time>320490099000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>7d85632b-dcfc-4134-b0db-4a464b2f4a2f</identifier>
+  <publish-time>320490183000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>95887be5-d109-4def-b908-f8a1262ced0a</identifier>
+  <publish-time>320490250000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>1dc6cfa6-3b35-49e9-9d1e-3d58a2fd54a9</identifier>
+  <publish-time>320497829000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>62e003f5-f6ba-4b32-9c13-f674d046851b</identifier>
+  <publish-time>321168325000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StartRunOnceEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>05b5eab6-533c-4140-a227-f097a63ab8ff</identifier>
+  <publish-time>321168430000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStartedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3988f3fb-ef57-4932-bf63-aa4ddfa902b0</identifier>
+  <publish-time>321168519000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$UnhighlightBlocksRequest</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>479f84f2-2c69-4d75-9b3b-5911a030b65d</identifier>
+  <publish-time>321177753000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationUpdateProtocol$RunStoppedEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>3d758f55-b51d-4906-9549-742fb8408cd8</identifier>
+  <publish-time>326202503000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$EnterConstructionActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d7321b87-e52e-4224-880b-bab6721771c7</identifier>
+  <publish-time>326202568000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SwitchActivityProtocol$LeaveEnactmentActivityEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>98a8f7b2-6b31-4ddd-bb0a-1a3b652e0ebe</identifier>
+  <publish-time>326220448000</publish-time>
+  <type>edu.vanderbilt.ctsim.protocols.SimulationControlProtocol$StopEvent</type>
+  <simulation>enactment-user</simulation>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>fd6987d1-23af-4e4f-84d0-415075e9cc15</identifier>
+  <publish-time>76748814155000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitRequestedEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>2ea72740-cbd3-4bf7-8684-327e14d95f06</identifier>
+  <publish-time>76748814363000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>5f7d9ca7-9512-4bcb-80ff-e3fd408874f8</identifier>
+  <publish-time>76748814482000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>ConstructionActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>36dfc484-b49e-4143-a7bc-3c70fddea092</identifier>
+  <publish-time>76748814731000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EnactmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>cbf9e3b4-248d-4195-8440-b39a142268d5</identifier>
+  <publish-time>76748814820000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EnvisionmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>ae9feb3d-40f3-4919-af5d-56fbe5d95349</identifier>
+  <publish-time>76748815067000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppExitOkEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9977f082-ec6e-40cf-b285-f0e904516ab0</identifier>
+  <publish-time>76748890666000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$AppWillExitEvent</type>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>d7084222-66bc-4b75-b98b-6f56e2c5d21c</identifier>
+  <publish-time>76748898705000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>ConstructionActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>69f352d6-f295-4e7c-9d21-a7caa997d91c</identifier>
+  <publish-time>76748898766000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EnactmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>9bfd493d-f680-4920-868c-f9558480149b</identifier>
+  <publish-time>76748898819000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EnvisionmentActivityController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>a7125f0e-2b0d-40a9-8086-99901d6611b9</identifier>
+  <publish-time>76748922695000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <identifier>de049863-d5e1-440a-b5ca-ba73909d6273</identifier>
+  <publish-time>76748924202000</publish-time>
+  <type>org.teachableagents.caile.protocols.AppLifeCycleProtocol$ReadyToExitEvent</type>
+  <sender>EventLoggerController [RUNNING]</sender>
+</event>
