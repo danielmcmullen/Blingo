@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Blingo",
+  "description": "This extension searches Bing and replaces words with a configurable dictionary",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+	"default_title": "Bing It On!"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
