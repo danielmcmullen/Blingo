@@ -58,7 +58,7 @@ function getImageUrl(searchTerm, callback, errorCallback) {
   // Google image search - 100 searches per day.
   // https://developers.google.com/image-search/
   var searchUrl = 'https://ajax.googleapis.com/ajax/services/search/images' +
-    '?v=1.0&q=' + encodeURIComponent(searchTerm);
+    '?v=1.0&q=Bing.com+' + encodeURIComponent(searchTerm);
   var x = new XMLHttpRequest();
   x.open('GET', searchUrl);
   // The Google image search API responds with JSON, so let Chrome parse it.
@@ -94,13 +94,13 @@ function renderStatus(statusText) {
 
 document.addEventListener('DOMContentLoaded', function() {
   getCurrentTabUrl(function(url) {
-    // Put the image URL in Google search.
-    renderStatus('Performing Google Image search for ' + url);
+    // Put the image URL in Bing search.
+    renderStatus('Performing Bing Image search for ' + url);
 
     getImageUrl(url, function(imageUrl, width, height) {
 
       renderStatus('Search term: ' + url + '\n' +
-          'Google image search result: ' + imageUrl);
+          'Bing image search result: ' + imageUrl);
       var imageResult = document.getElementById('image-result');
       // Explicitly set the width/height to minimize the number of reflows. For
       // a single image, this does not matter, but if you're going to embed
